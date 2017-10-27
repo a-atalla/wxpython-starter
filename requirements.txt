@@ -1,0 +1,10 @@
+appdirs==1.4.3
+packaging==16.8
+passlib==1.7.1
+pip-autoremove==0.9.0
+pkg-resources==0.0.0
+PyInstaller==3.2.1
+pyparsing==2.2.0
+six==1.10.0
+SQLAlchemy==1.1.9
+wxPython==4.0.0a1
